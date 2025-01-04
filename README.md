@@ -1,0 +1,1 @@
+The hypothesis is that the measurement of the elbow range of motion required to perform activities associated with personal care and daily living will yield different results compared to historical standards measured with a triaxial electrogoniometer.
